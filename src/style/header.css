@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-evenly;
     border-bottom: 0.5px solid lightgrey;
-    padding: 10px 0;
+    padding: 8px 0 4px 0;
     width: 100%;
     z-index: 999;
 }
@@ -15,7 +15,7 @@
 
 .header-left > img {
     object-fit: contain;
-    height: 40px;
+    height: 30px;
     margin-right: 10px;
 }
 
@@ -25,7 +25,8 @@
     display: flex;
     align-items: center;
     border-radius: 5px;
-    height: 22px;
+    height: 11px;
+    width: 230px;
     color: gray;
     background-color: #eef3f8;
 }
